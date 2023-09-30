@@ -1,0 +1,7 @@
+F:\c#-code\B_TureBasic\DemoFileManager\bin\Debug\DemoFileManager.exe.config
+F:\c#-code\B_TureBasic\DemoFileManager\bin\Debug\DemoFileManager.exe
+F:\c#-code\B_TureBasic\DemoFileManager\bin\Debug\DemoFileManager.pdb
+F:\c#-code\B_TureBasic\DemoFileManager\obj\Debug\DemoFileManager.csproj.AssemblyReference.cache
+F:\c#-code\B_TureBasic\DemoFileManager\obj\Debug\DemoFileManager.csproj.CoreCompileInputs.cache
+F:\c#-code\B_TureBasic\DemoFileManager\obj\Debug\DemoFileManager.exe
+F:\c#-code\B_TureBasic\DemoFileManager\obj\Debug\DemoFileManager.pdb

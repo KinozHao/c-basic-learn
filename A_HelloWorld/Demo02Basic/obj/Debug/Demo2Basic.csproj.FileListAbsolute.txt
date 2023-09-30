@@ -1,0 +1,12 @@
+F:\c#-code\A_HelloWorld\Demo2Basic\bin\Debug\Demo2Basic.exe.config
+F:\c#-code\A_HelloWorld\Demo2Basic\bin\Debug\Demo2Basic.exe
+F:\c#-code\A_HelloWorld\Demo2Basic\bin\Debug\Demo2Basic.pdb
+F:\c#-code\A_HelloWorld\Demo2Basic\obj\Debug\Demo2Basic.csproj.AssemblyReference.cache
+F:\c#-code\A_HelloWorld\Demo2Basic\obj\Debug\Demo2Basic.csproj.CoreCompileInputs.cache
+F:\c#-code\A_HelloWorld\Demo2Basic\obj\Debug\Demo2Basic.exe
+F:\c#-code\A_HelloWorld\Demo2Basic\obj\Debug\Demo2Basic.pdb
+F:\c#-code\A_HelloWorld\Demo2Basic\bin\Debug\EntityFramework.dll
+F:\c#-code\A_HelloWorld\Demo2Basic\bin\Debug\EntityFramework.SqlServer.dll
+F:\c#-code\A_HelloWorld\Demo2Basic\bin\Debug\EntityFramework.xml
+F:\c#-code\A_HelloWorld\Demo2Basic\bin\Debug\EntityFramework.SqlServer.xml
+F:\c#-code\A_HelloWorld\Demo2Basic\obj\Debug\Demo2Basic.csproj.CopyComplete

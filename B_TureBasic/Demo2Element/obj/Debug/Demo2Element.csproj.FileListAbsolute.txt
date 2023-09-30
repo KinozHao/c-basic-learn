@@ -1,0 +1,7 @@
+F:\c#-code\B_TureBasic\Demo2Element\bin\Debug\Demo2Element.exe.config
+F:\c#-code\B_TureBasic\Demo2Element\bin\Debug\Demo2Element.exe
+F:\c#-code\B_TureBasic\Demo2Element\bin\Debug\Demo2Element.pdb
+F:\c#-code\B_TureBasic\Demo2Element\obj\Debug\Demo2Element.csproj.AssemblyReference.cache
+F:\c#-code\B_TureBasic\Demo2Element\obj\Debug\Demo2Element.csproj.CoreCompileInputs.cache
+F:\c#-code\B_TureBasic\Demo2Element\obj\Debug\Demo2Element.exe
+F:\c#-code\B_TureBasic\Demo2Element\obj\Debug\Demo2Element.pdb

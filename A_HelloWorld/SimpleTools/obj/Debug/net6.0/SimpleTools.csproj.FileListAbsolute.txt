@@ -1,0 +1,14 @@
+F:\c#-code\A_HelloWorld\SimpleTools\obj\Debug\net6.0\SimpleTools.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-code\A_HelloWorld\SimpleTools\obj\Debug\net6.0\SimpleTools.AssemblyInfoInputs.cache
+F:\c#-code\A_HelloWorld\SimpleTools\obj\Debug\net6.0\SimpleTools.AssemblyInfo.cs
+F:\c#-code\A_HelloWorld\SimpleTools\obj\Debug\net6.0\SimpleTools.csproj.CoreCompileInputs.cache
+F:\c#-code\A_HelloWorld\SimpleTools\bin\Debug\net6.0\SimpleTools.exe
+F:\c#-code\A_HelloWorld\SimpleTools\bin\Debug\net6.0\SimpleTools.deps.json
+F:\c#-code\A_HelloWorld\SimpleTools\bin\Debug\net6.0\SimpleTools.runtimeconfig.json
+F:\c#-code\A_HelloWorld\SimpleTools\bin\Debug\net6.0\SimpleTools.dll
+F:\c#-code\A_HelloWorld\SimpleTools\bin\Debug\net6.0\SimpleTools.pdb
+F:\c#-code\A_HelloWorld\SimpleTools\obj\Debug\net6.0\SimpleTools.dll
+F:\c#-code\A_HelloWorld\SimpleTools\obj\Debug\net6.0\refint\SimpleTools.dll
+F:\c#-code\A_HelloWorld\SimpleTools\obj\Debug\net6.0\SimpleTools.pdb
+F:\c#-code\A_HelloWorld\SimpleTools\obj\Debug\net6.0\SimpleTools.genruntimeconfig.cache
+F:\c#-code\A_HelloWorld\SimpleTools\obj\Debug\net6.0\ref\SimpleTools.dll

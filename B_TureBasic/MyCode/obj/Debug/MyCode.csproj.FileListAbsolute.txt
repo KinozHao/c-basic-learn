@@ -1,0 +1,6 @@
+F:\c#-code\B_TureBasic\MyCode\bin\Debug\MyCode.dll
+F:\c#-code\B_TureBasic\MyCode\bin\Debug\MyCode.pdb
+F:\c#-code\B_TureBasic\MyCode\obj\Debug\MyCode.csproj.AssemblyReference.cache
+F:\c#-code\B_TureBasic\MyCode\obj\Debug\MyCode.csproj.CoreCompileInputs.cache
+F:\c#-code\B_TureBasic\MyCode\obj\Debug\MyCode.dll
+F:\c#-code\B_TureBasic\MyCode\obj\Debug\MyCode.pdb

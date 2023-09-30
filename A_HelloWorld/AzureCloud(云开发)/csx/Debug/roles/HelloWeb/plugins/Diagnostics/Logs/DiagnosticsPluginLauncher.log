@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Emulator config file set to F:\c#-code\A_HelloWorld\AzureCloud(云开发)\csx\Debug\roles\HelloWeb\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] DiagnosticsStoreRootPath set to: C:\Users\haogu\AppData\Local\dftmp\Resources\3fbb594a-edd6-4954-b6cc-21acebf9a4b1
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Loading config file: F:\c#-code\A_HelloWorld\AzureCloud(云开发)\csx\Debug\roles\HelloWeb\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Config file to read: F:\c#-code\A_HelloWorld\AzureCloud(云开发)\csx\Debug\roles\HelloWeb\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Emulator config file set to F:\c#-code\A_HelloWorld\AzureCloud(云开发)\csx\Debug\roles\HelloWeb\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2023/9/20 12:13:28] Resetting DiagnosticPlugin

@@ -1,0 +1,11 @@
+F:\c#-code\A_HelloWorld\SuperCalculator\bin\Debug\net6.0\SuperCalculator.deps.json
+F:\c#-code\A_HelloWorld\SuperCalculator\bin\Debug\net6.0\SuperCalculator.dll
+F:\c#-code\A_HelloWorld\SuperCalculator\bin\Debug\net6.0\SuperCalculator.pdb
+F:\c#-code\A_HelloWorld\SuperCalculator\obj\Debug\net6.0\SuperCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-code\A_HelloWorld\SuperCalculator\obj\Debug\net6.0\SuperCalculator.AssemblyInfoInputs.cache
+F:\c#-code\A_HelloWorld\SuperCalculator\obj\Debug\net6.0\SuperCalculator.AssemblyInfo.cs
+F:\c#-code\A_HelloWorld\SuperCalculator\obj\Debug\net6.0\SuperCalculator.csproj.CoreCompileInputs.cache
+F:\c#-code\A_HelloWorld\SuperCalculator\obj\Debug\net6.0\SuperCalculator.dll
+F:\c#-code\A_HelloWorld\SuperCalculator\obj\Debug\net6.0\refint\SuperCalculator.dll
+F:\c#-code\A_HelloWorld\SuperCalculator\obj\Debug\net6.0\SuperCalculator.pdb
+F:\c#-code\A_HelloWorld\SuperCalculator\obj\Debug\net6.0\ref\SuperCalculator.dll

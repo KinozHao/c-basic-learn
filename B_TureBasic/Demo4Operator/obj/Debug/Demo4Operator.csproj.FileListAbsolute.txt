@@ -1,0 +1,10 @@
+F:\c#-code\B_TureBasic\Demo4Operator\bin\Debug\Demo4Operator.exe.config
+F:\c#-code\B_TureBasic\Demo4Operator\bin\Debug\Demo4Operator.exe
+F:\c#-code\B_TureBasic\Demo4Operator\bin\Debug\Demo4Operator.pdb
+F:\c#-code\B_TureBasic\Demo4Operator\obj\Debug\Demo4Operator.csproj.AssemblyReference.cache
+F:\c#-code\B_TureBasic\Demo4Operator\obj\Debug\Demo4Operator.csproj.CoreCompileInputs.cache
+F:\c#-code\B_TureBasic\Demo4Operator\obj\Debug\Demo4Operator.exe
+F:\c#-code\B_TureBasic\Demo4Operator\obj\Debug\Demo4Operator.pdb
+F:\c#-code\B_TureBasic\Demo4Operator\bin\Debug\MyCode.dll
+F:\c#-code\B_TureBasic\Demo4Operator\bin\Debug\MyCode.pdb
+F:\c#-code\B_TureBasic\Demo4Operator\obj\Debug\Demo4Operator.csproj.CopyComplete

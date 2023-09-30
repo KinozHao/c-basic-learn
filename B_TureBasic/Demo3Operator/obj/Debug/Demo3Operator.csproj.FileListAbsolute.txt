@@ -1,0 +1,7 @@
+F:\c#-code\B_TureBasic\Demo3Operator\obj\Debug\Demo3Operator.csproj.AssemblyReference.cache
+F:\c#-code\B_TureBasic\Demo3Operator\obj\Debug\Demo3Operator.csproj.CoreCompileInputs.cache
+F:\c#-code\B_TureBasic\Demo3Operator\bin\Debug\Demo3Operator.exe.config
+F:\c#-code\B_TureBasic\Demo3Operator\bin\Debug\Demo3Operator.exe
+F:\c#-code\B_TureBasic\Demo3Operator\bin\Debug\Demo3Operator.pdb
+F:\c#-code\B_TureBasic\Demo3Operator\obj\Debug\Demo3Operator.exe
+F:\c#-code\B_TureBasic\Demo3Operator\obj\Debug\Demo3Operator.pdb

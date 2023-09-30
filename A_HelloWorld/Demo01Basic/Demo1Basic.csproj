@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleTools\SimpleTools.csproj" />
+    <ProjectReference Include="..\SuperCalculator\SuperCalculator.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="NModbus4">
+      <HintPath>G:\重庆树德赛项相关\9月重庆培训资料\C#Modbus补丁\NModbus4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

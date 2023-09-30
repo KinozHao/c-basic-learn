@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Demo1Basic/1.0.0": {
+        "dependencies": {
+          "SimpleTools": "1.0.0",
+          "SuperCalculator": "1.0.0",
+          "NModbus4": "2.1.0.0"
+        },
+        "runtime": {
+          "Demo1Basic.dll": {}
+        }
+      },
+      "SimpleTools/1.0.0": {
+        "runtime": {
+          "SimpleTools.dll": {}
+        }
+      },
+      "SuperCalculator/1.0.0": {
+        "runtime": {
+          "SuperCalculator.dll": {}
+        }
+      },
+      "NModbus4/2.1.0.0": {
+        "runtime": {
+          "NModbus4.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo1Basic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleTools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NModbus4/2.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

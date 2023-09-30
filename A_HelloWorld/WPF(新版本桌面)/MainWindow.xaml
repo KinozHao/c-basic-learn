@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPFTEST.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTEST"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="ShowValue" HorizontalAlignment="Left" Margin="296,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="237" Height="78" Background="#FF2BFF00"/>
+        <Button x:Name="Click" HorizontalAlignment="Left" Margin="151,245,0,0" VerticalAlignment="Top" Height="80" Width="182" Content="Click" Click="ClickMe"/>
+        <Button x:Name="Cancel" HorizontalAlignment="Left" Margin="512,250,0,0" VerticalAlignment="Top" Height="80" Width="182" Click="CancelMe" Content="Cancel"/>
+
+    </Grid>
+</Window>

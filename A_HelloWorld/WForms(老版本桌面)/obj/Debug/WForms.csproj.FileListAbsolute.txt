@@ -1,0 +1,10 @@
+F:\c#-code\A_HelloWorld\WForms\bin\Debug\WForms.exe.config
+F:\c#-code\A_HelloWorld\WForms\bin\Debug\WForms.exe
+F:\c#-code\A_HelloWorld\WForms\bin\Debug\WForms.pdb
+F:\c#-code\A_HelloWorld\WForms\obj\Debug\WForms.csproj.AssemblyReference.cache
+F:\c#-code\A_HelloWorld\WForms\obj\Debug\WForms.ButtionShowHello.resources
+F:\c#-code\A_HelloWorld\WForms\obj\Debug\WForms.Properties.Resources.resources
+F:\c#-code\A_HelloWorld\WForms\obj\Debug\WForms.csproj.GenerateResource.cache
+F:\c#-code\A_HelloWorld\WForms\obj\Debug\WForms.csproj.CoreCompileInputs.cache
+F:\c#-code\A_HelloWorld\WForms\obj\Debug\WForms.exe
+F:\c#-code\A_HelloWorld\WForms\obj\Debug\WForms.pdb
